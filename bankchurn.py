@@ -46,7 +46,7 @@ st.sidebar.markdown("""
 ### 👤 About Me
 I'm a Business Intelligence Developer with expertise in SQL and Tableau, currently deepening my skills in Data Science and Machine Learning. This app showcases my work in customer churn analysis using real-world bank data.
 
-🔗 [View Full Project on GitHub](https://github.com/yourusername/bank-churn-analysis)
+🔗 [View Full Project on GitHub](https://github.com/aelgarem1/Bank-Churn-Analysis)
 """)
 
 # Page selector
